@@ -1,0 +1,2 @@
+# PracticaNoteapp
+practicando con mysql
